@@ -53,7 +53,8 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![Alt text](<Algorithm output.png>)
+![Algorithm output](https://github.com/ILAIYADEEPAN/QRdecomposition/assets/147473334/a12ec745-43b5-43f3-a3a3-fe0e0e71a0a8)
+
 
 
 ## Result
